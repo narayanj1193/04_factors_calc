@@ -1,3 +1,5 @@
+import random
+
 # set up a list...
 
 my_list = []
@@ -22,6 +24,6 @@ my_list_len = len(my_list)
 
 # print the sorted list
 print()
-print(my-list)
-print('The list has {} items".format(my_list_len))')
+print(my_list)
+print("The list has {} items".format(my_list_len))
 print()
